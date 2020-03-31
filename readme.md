@@ -1,0 +1,5 @@
+1.page文件夹下包含各个页面的测试操作，其中app.py为启动app并进入主页面的操作，其中search.py已改造可以根据yaml文件步骤进行功能调用。
+所有页面继承与BasePage，BasePage中实现元素定位，异常处理等功能。
+2.test_data文件夹下存放测试数据
+3.test_case文件夹下存放测试用例
+4.test_step文件夹下存放测试步骤
